@@ -1,0 +1,32 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Research data that should not be versioned by default
+research/04_data/raw/*
+!research/04_data/raw/.gitkeep
+research/04_data/interim/*
+!research/04_data/interim/.gitkeep
+research/04_data/processed/*
+!research/04_data/processed/.gitkeep
+
+# Large or generated outputs
+research/06_outputs/**/*.pdf
+research/06_outputs/**/*.pptx
+research/06_outputs/**/*.docx
+research/05_projects/**/results/*
+!research/05_projects/**/results/.gitkeep
+
+# Temporary intake
+research/00_inbox/*
+!research/00_inbox/.gitkeep
