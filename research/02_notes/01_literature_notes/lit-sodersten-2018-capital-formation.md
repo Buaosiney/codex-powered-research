@@ -67,6 +67,32 @@
   - 它说明为什么“投资”不能被当作普通最终需求项草率处理
   - 它为“固定资本形成与长期排放影响”问题笔记提供了直接支撑
 
+## 我的当前判断
+
+- 这篇文献强化了一个关键认识：
+  - 固定资本形成不是普通的最终需求项，而是一个带有强产业链传导和长期后果的研究对象
+
+- 对我当前阶段最重要的启发：
+  - 我不需要一开始就做复杂的动态资本模型
+  - 但必须先掌握 EEIO / MRIO 如何处理投资需求及其上游环境影响
+
+- 这篇文献为什么值得作为第一轮完整流转对象：
+  - 它同时连接了导师方向、我的问题笔记和 IO 方法主线
+  - 它能把“为什么先学 IO”从抽象判断变成具体研究证据
+
+## 相关链接
+
+- 方法卡片：
+  - [环境扩展投入产出分析](../02_method_cards/method-environmentally-extended-input-output.md)
+  - [多区域投入产出分析](../02_method_cards/method-multi-regional-input-output.md)
+  - [资本内生化](../02_method_cards/method-capital-endogenization.md)
+
+- 问题笔记：
+  - [固定资本形成与长期排放影响](../03_question_notes/question-fixed-capital-and-emissions.md)
+
+- 研究备忘录：
+  - [为什么入学前先以投入产出分析为方法中轴](../05_research_memos/memo-2026-04-16-why-io-first.md)
+
 ## 与导师方向的关系
 
 - 直接相关
@@ -77,7 +103,7 @@
 ## 后续动作
 
 - [ ] 补入 Zotero
+- [ ] 在 Zotero 中添加 `core`、`capital-formation`、`investment` 标签
 - [ ] 连接到 `question-fixed-capital-and-emissions.md`
 - [ ] 连接到 `memo-2026-04-16-why-io-first.md`
 - [ ] 后续找这篇文章引用链中的资本内生化研究
-

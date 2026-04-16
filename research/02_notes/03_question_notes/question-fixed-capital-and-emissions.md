@@ -54,9 +54,31 @@
 
 ## 已知文献支撑
 
-- 文献 1：待检索固定资本形成与 embodied emissions 相关文献
+- 文献 1：
+  - [Environmental Impacts of Capital Formation](../01_literature_notes/lit-sodersten-2018-capital-formation.md)
+  - 这篇文献直接支撑“固定资本形成不能被当作普通最终需求简单处理”的判断
+
 - 文献 2：待检索 infrastructure investment 与 environmental footprint 相关文献
 - 文献 3：待检索 MRIO 中 final demand categories 的应用文献
+
+## 当前新增判断
+
+- 新增判断 1：
+  - 固定资本形成的环境影响不仅来自当期建设活动，还和资本资产结构差异密切相关
+
+- 新增判断 2：
+  - 如果只把资本形成看作普通最终需求类别，而不进一步考虑资本品依赖和长期结构作用，容易低估其研究重要性
+
+## 相关链接
+
+- 方法卡片：
+  - [Leontief 逆矩阵](../02_method_cards/method-leontief-inverse.md)
+  - [环境扩展投入产出分析](../02_method_cards/method-environmentally-extended-input-output.md)
+  - [多区域投入产出分析](../02_method_cards/method-multi-regional-input-output.md)
+  - [资本内生化](../02_method_cards/method-capital-endogenization.md)
+
+- 文献笔记：
+  - [Environmental Impacts of Capital Formation](../01_literature_notes/lit-sodersten-2018-capital-formation.md)
 
 ## 当前的不清楚之处
 
@@ -69,6 +91,5 @@
 - [ ] 在 Zotero 中建立或检查 `capital formation` 相关标签
 - [ ] 检索 `gross fixed capital formation embodied emissions input-output`
 - [ ] 检索 `infrastructure investment environmental footprint MRIO`
-- [ ] 连接到 `method-leontief-inverse.md`
-- [ ] 形成第一份主题备忘录
-
+- [x] 连接到 `method-leontief-inverse.md`
+- [x] 形成第一份主题备忘录

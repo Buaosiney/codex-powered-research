@@ -26,7 +26,9 @@
 
 - 核心文献 1：待补充投入产出分析基础教材或综述
 - 核心文献 2：待补充环境扩展 IO 综述
-- 核心文献 3：待补充固定资本形成或基础设施投资环境影响研究
+- 核心文献 3：
+  - [Environmental Impacts of Capital Formation](../01_literature_notes/lit-sodersten-2018-capital-formation.md)
+  - 这篇文献说明固定资本形成本身就是环境影响分析中的高价值对象，而不是仅仅作为背景变量存在
 
 ## 方法入口
 
@@ -72,6 +74,18 @@
 - 机会 3：
   - 将 AI 用作方法解释器和阅读协作者，而不是直接让 AI 生成研究结论
 
+## 本轮流转新增判断
+
+- 新增判断 1：
+  - `Environmental Impacts of Capital Formation` 进一步证明，先学 IO 的价值不只是“方法入门方便”，而是它能直接进入导师方向的核心研究对象
+
+- 新增判断 2：
+  - 资本形成问题天然要求区分普通最终需求分析、环境扩展核算和更进一步的资本内生化处理，因此 IO 主线本身就能逐步通向更高级的方法问题
+
+- 新增判断 3：
+  - 对我当前阶段而言，最合理的顺序仍然是：
+    `Leontief 逆矩阵 -> EEIO -> MRIO -> 资本内生化`
+
 ## 当前的不确定性
 
 - 不确定点 1：
@@ -85,9 +99,20 @@
 
 ## 下一步动作
 
-- [ ] 创建 `method-leontief-inverse.md`
-- [ ] 跑通一个最小 Leontief 逆矩阵示例
+- [x] 创建 `method-leontief-inverse.md`
+- [x] 跑通一个最小 Leontief 逆矩阵示例
 - [ ] 检索 5 篇与固定资本形成和环境足迹相关的文献
-- [ ] 建立第一张数据卡片
+- [x] 建立第一张数据卡片
+- [ ] 在 Zotero 中补入 `Environmental Impacts of Capital Formation`
 - [ ] 写一份 IO 学习周回顾
 
+## 相关链接
+
+- 方法卡片：
+  - [Leontief 逆矩阵](../02_method_cards/method-leontief-inverse.md)
+  - [环境扩展投入产出分析](../02_method_cards/method-environmentally-extended-input-output.md)
+  - [多区域投入产出分析](../02_method_cards/method-multi-regional-input-output.md)
+  - [资本内生化](../02_method_cards/method-capital-endogenization.md)
+
+- 相关问题：
+  - [固定资本形成与长期排放影响](../03_question_notes/question-fixed-capital-and-emissions.md)
