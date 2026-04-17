@@ -76,7 +76,7 @@
 
 ## 后续动作
 
-- [ ] 补入 Zotero
+- [x] 补入 Zotero
 - [ ] 连接到 `question-fixed-capital-and-emissions.md`
 - [ ] 在方法卡片中新增 `capital endogenization`
 - [ ] 后续寻找这篇文献的配套方法论文和引用链

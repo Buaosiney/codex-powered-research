@@ -75,7 +75,7 @@
 
 ## 后续动作
 
-- [ ] 补入 Zotero
+- [x] 补入 Zotero
 - [ ] 连接到 `data-exiobase.md`
 - [ ] 连接到 `method-leontief-inverse.md`
 - [ ] 在研究备忘录中记录 EXIOBASE 的适用场景

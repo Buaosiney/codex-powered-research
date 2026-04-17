@@ -102,8 +102,8 @@
 
 ## 后续动作
 
-- [ ] 补入 Zotero
-- [ ] 在 Zotero 中添加 `core`、`capital-formation`、`investment` 标签
+- [x] 补入 Zotero
+- [x] 在 Zotero 中添加 `core`、`capital-formation`、`investment` 标签
 - [ ] 连接到 `question-fixed-capital-and-emissions.md`
 - [ ] 连接到 `memo-2026-04-16-why-io-first.md`
 - [ ] 后续找这篇文章引用链中的资本内生化研究
