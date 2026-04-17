@@ -111,5 +111,5 @@ x ≈ | 139.34 |
 
 - 把这个例子手算一遍
 - 用 Python 或 R 复现这个矩阵运算
+  - Python 脚本：`research/03_methods/input_output/scripts/build_leontief_matrix.py`
 - 再进入 `eeio_minimal.md`
-
