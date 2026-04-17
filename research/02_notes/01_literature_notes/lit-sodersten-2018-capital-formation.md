@@ -39,7 +39,8 @@
 ## 数据
 
 - 使用了什么数据？
-  - 关联材料显示该研究使用 EXIOBASE2 分析 gross fixed capital formation
+  - [EXIOBASE2](05_research_memos/memo-2026-04-16-weekly-review)(提供环境和贸易信息，但并没有提供固定资产)
+  - [KLEMS](04_data_cards/data-klems)（提供资本数据）
 
 - 数据口径或限制是什么？
   - 结果依赖 MRIO 分类和资本形成分类方式

@@ -77,8 +77,10 @@
   - [多区域投入产出分析](../02_method_cards/method-multi-regional-input-output.md)
   - [资本内生化](../02_method_cards/method-capital-endogenization.md)
 
-- 文献笔记：
-  - [Environmental Impacts of Capital Formation](../01_literature_notes/lit-sodersten-2018-capital-formation.md)
+- 文献：
+  - Södersten, C., Wood, R. & Hertwich, E. G. [Environmental Impacts of Capital Formation.] _J of Industrial Ecology_ **22**, 55–67 (2018).(../01_literature_notes/lit-sodersten-2018-capital-formation.md)
+  - Södersten, C.-J. H., Wood, R. & Hertwich, E. G. [Endogenizing Capital in MRIO Models: The Implications for Consumption-Based Accounting.] _Environ. Sci. Technol._ **52**, 13250–13259 (2018).(01_literature_notes/lit-sodersten-2018-endogenizing-capital)
+  - Stadler, K. _et al._ [EXIOBASE 3: Developing a Time Series of Detailed Environmentally Extended Multi‐Regional Input‐Output Tables](01_literature_notes/lit-stadler-2018-exiobase3). _J of Industrial Ecology_ **22**, 502–515 (2018).
 
 ## 当前的不清楚之处
 

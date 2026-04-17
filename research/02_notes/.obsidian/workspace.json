@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_research_memos/memo-2026-04-16-weekly-review.md",
+                "file": "03_question_notes/question-fixed-capital-and-emissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo-2026-04-16-weekly-review"
+              "title": "question-fixed-capital-and-emissions"
             }
           },
           {
-            "id": "93aca72e450569c6",
+            "id": "6ad066392c871f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "question-fixed-capital-and-emissions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,25 +197,30 @@
       "bases:新建数据库": false
     }
   },
-  "active": "93aca72e450569c6",
+  "active": "afa9784c2d36625b",
   "lastOpenFiles": [
+    "01_literature_notes/lit-sodersten-2018-endogenizing-capital.md",
+    "03_question_notes/question-fixed-capital-and-emissions.md",
+    "01_literature_notes/lit-sodersten-2018-capital-formation.md",
+    "01_literature_notes/KLEMS.md",
+    "04_data_cards/data-klems.md",
+    "05_research_memos/memo-2026-04-16-weekly-review.md",
+    "04_data_cards/data-exiobase.md",
+    "04_data_cards/data-wiod.md",
+    "04_data_cards/data-oecd-icio.md",
+    "02_method_cards/method-capital-endogenization.md",
+    "99_templates/question-note-template.md",
     "01_literature_notes/lit-stadler-2018-exiobase3.md",
     "05_research_memos/memo-2026-04-16-why-io-first.md",
-    "05_research_memos/memo-2026-04-16-weekly-review.md",
     "05_research_memos/memo-2026-04-16-weekly-review 1.md",
     "99_templates/weekly-review-template.md",
     "未命名.md",
-    "99_templates/question-note-template.md",
     "99_templates/method-card-template.md",
     "99_templates/literature-note-template.md",
     "99_templates/data-card-template.md",
     "99_templates/project-readme-template.md",
     "02_method_cards/method-environmentally-extended-input-output.md",
     "00_dashboard/first-complete-cycle.md",
-    "01_literature_notes/lit-sodersten-2018-capital-formation.md",
-    "02_method_cards/method-capital-endogenization.md",
-    "01_literature_notes/lit-sodersten-2018-endogenizing-capital.md",
-    "03_question_notes/question-fixed-capital-and-emissions.md",
     "00_dashboard/start-here.md",
     "00_dashboard/workflow-initialization-checklist.md",
     "02_method_cards/method-leontief-inverse.md"
