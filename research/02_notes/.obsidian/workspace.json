@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_templates/data-card-template.md",
+                "file": "00_dashboard/start-here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "data-card-template"
+              "title": "start-here"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "afa9784c2d36625b",
   "lastOpenFiles": [
+    "00_dashboard/workflow-initialization-checklist.md",
+    "00_dashboard/start-here.md",
+    "00_dashboard/first-complete-cycle.md",
+    "05_research_memos/memo-2026-04-16-why-io-first.md",
+    "05_research_memos/memo-2026-04-16-weekly-review.md",
+    "02_method_cards/method-leontief-inverse.md",
+    "03_question_notes/question-fixed-capital-and-emissions.md",
+    "01_literature_notes/lit-sodersten-2018-capital-formation.md",
+    "99_templates/data-card-template.md",
     "01_literature_notes/lit-stadler-2018-exiobase3.md",
-    "01_literature_notes/lit-sodersten-2018-endogenizing-capital.md",
-    "01_literature_notes/lit-sodersten-2018-capital-formation.md"
+    "01_literature_notes/lit-sodersten-2018-endogenizing-capital.md"
   ]
 }
