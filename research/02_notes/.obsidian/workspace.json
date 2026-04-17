@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_question_notes/question-fixed-capital-and-emissions.md",
+                "file": "00_dashboard/start-here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "question-fixed-capital-and-emissions"
+              "title": "start-here"
             }
           },
           {
@@ -199,8 +199,26 @@
   },
   "active": "afa9784c2d36625b",
   "lastOpenFiles": [
-    "01_literature_notes/lit-sodersten-2018-endogenizing-capital.md",
+    "98_archive/README.md",
+    "90_system/system-index.md",
+    "90_system/ai-handoff.md",
+    "98_archive/2026-04-16-personal-research-operating-system-execution-guide.md",
+    "98_archive/2026-04-16-personal-research-operating-system-design.md",
+    "90_system/templates/weekly-review-template.md",
+    "90_system/templates/research-memo-template.md",
+    "90_system/templates/question-note-template.md",
+    "90_system/templates/project-readme-template.md",
+    "90_system/templates/method-card-template.md",
+    "90_system/templates/literature-note-template.md",
+    "90_system/templates/data-card-template.md",
+    "00_dashboard/workflow-checklist.md",
+    "90_system/zotero-core-papers-seed.md",
+    "90_system/first-complete-cycle.md",
+    "98_archive",
+    "90_system/templates",
+    "90_system",
     "03_question_notes/question-fixed-capital-and-emissions.md",
+    "01_literature_notes/lit-sodersten-2018-endogenizing-capital.md",
     "01_literature_notes/lit-sodersten-2018-capital-formation.md",
     "01_literature_notes/KLEMS.md",
     "04_data_cards/data-klems.md",
@@ -209,20 +227,6 @@
     "04_data_cards/data-wiod.md",
     "04_data_cards/data-oecd-icio.md",
     "02_method_cards/method-capital-endogenization.md",
-    "99_templates/question-note-template.md",
-    "01_literature_notes/lit-stadler-2018-exiobase3.md",
-    "05_research_memos/memo-2026-04-16-why-io-first.md",
-    "05_research_memos/memo-2026-04-16-weekly-review 1.md",
-    "99_templates/weekly-review-template.md",
-    "未命名.md",
-    "99_templates/method-card-template.md",
-    "99_templates/literature-note-template.md",
-    "99_templates/data-card-template.md",
-    "99_templates/project-readme-template.md",
-    "02_method_cards/method-environmentally-extended-input-output.md",
-    "00_dashboard/first-complete-cycle.md",
-    "00_dashboard/start-here.md",
-    "00_dashboard/workflow-initialization-checklist.md",
-    "02_method_cards/method-leontief-inverse.md"
+    "99_templates/question-note-template.md"
   ]
 }
